@@ -7,8 +7,8 @@ begin
     gem.name = "extjs-mvc"
     gem.summary = %Q{Ruby ORM tools to assist with rendering Ext.data.Store}
     gem.description = %Q{MVC tools to assist with ExtJS development in Rails and Merb}
-    gem.email = "christocracy@gmail.com"
-    gem.homepage = "http://github.com/extjs/mvc"
+    gem.email = "kenglish@gmail.com"
+    gem.homepage = "http://github.com/kenglishhi/mvc"
     gem.authors = ["Chris Scott"]
     gem.add_development_dependency "shoulda"
     gem.add_development_dependency "mocha"
